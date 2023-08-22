@@ -1,0 +1,16 @@
+{
+  "nextMeeting": {
+    "date": "28.08.2023",
+    "time": "17:00",
+    "paperTitle": "Improving Language Understanding by Generative Pre-Training",
+    "paperLink": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf"
+  },
+  "pastMeetings": [
+    {
+      "date": "21.08.2023",
+      "time": "17:00",
+      "paperTitle": "Attention Is All You Need",
+      "paperLink": "https://arxiv.org/pdf/1706.03762.pdf"
+    }
+  ]
+}
