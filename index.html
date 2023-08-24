@@ -15,6 +15,7 @@
         document.getElementById("next-meeting-time").textContent = data.nextMeeting.time;
         document.getElementById("next-meeting-title").textContent = data.nextMeeting.paperTitle;
         document.getElementById("next-meeting-link").href = data.nextMeeting.paperLink;
+        document.getElementById("next-meeting-room").textContent = data.nextMeeting.room;
 
         let pastMeetingsList = document.getElementById("past-meetings-list");
         data.pastMeetings.forEach(meeting => {
@@ -39,7 +40,8 @@
       <h4>Nächstes Treffen</h4>
       <p id="next-meeting">
         Das nächste Treffen findet am <span id="next-meeting-date">...</span> um <span id="next-meeting-time">...</span>
-        statt. Bitte lest bis dahin <a id="next-meeting-link" href="#">"<span id="next-meeting-title">...</span>"</a>.
+        im Raum <span id="next-meeting-room">...</span> statt.
+        Bitte lest bis dahin <a id="next-meeting-link" href="#">"<span id="next-meeting-title">...</span>"</a>.
       </p>
     </section>
 
