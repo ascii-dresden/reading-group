@@ -2,23 +2,40 @@
   "nextMeeting": {
     "date": "04.09.2023",
     "time": "17:00",
-    "paperTitle": "Language Models are Unsupervised Multitask Learners and https://arxiv.org/pdf/2005.14165.pdf",
-    "paperLink": "https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf",
-    "room": "E001"
+    "room": "E001",
+    "papers": [
+      {
+        "title": "Language Models are Unsupervised Multitask Learners",
+        "link": "https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf"
+      },
+      {
+        "title": "Language Models are Few-Shot Learners",
+        "link": "https://arxiv.org/pdf/2005.14165.pdf"
+      }
+    ]
   },
   "pastMeetings": [
     {
-    "date": "28.08.2023",
-    "time": "17:00",
-    "paperTitle": "Improving Language Understanding by Generative Pre-Training",
-    "paperLink": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
-    "room": "E001"
+      "date": "28.08.2023",
+      "time": "17:00",
+      "room": "E001",
+      "papers": [
+        {
+          "title": "Improving Language Understanding by Generative Pre-Training",
+          "link": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf"
+        }
+      ]
     },
     {
       "date": "21.08.2023",
       "time": "17:00",
-      "paperTitle": "Attention Is All You Need",
-      "paperLink": "https://arxiv.org/pdf/1706.03762.pdf"
+      "room": "E001",
+      "papers": [
+        {
+          "title": "Attention Is All You Need",
+          "link": "https://arxiv.org/pdf/1706.03762.pdf"
+        }
+      ]
     }
   ]
 }
