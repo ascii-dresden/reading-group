@@ -1,5 +1,17 @@
 {
   "nextMeeting": {
+    "date": "11.09.2023",
+    "time": "17:00",
+    "room": "?",
+    "papers": [
+      {
+        "title": "Training language models to follow instructions with human feedback",
+        "link": "https://arxiv.org/pdf/2203.02155.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
     "date": "04.09.2023",
     "time": "17:00",
     "room": "3045",
@@ -14,7 +26,6 @@
       }
     ]
   },
-  "pastMeetings": [
     {
       "date": "28.08.2023",
       "time": "17:00",
