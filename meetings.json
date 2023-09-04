@@ -24,7 +24,8 @@
         "title": "Language Models are Few-Shot Learners",
         "link": "https://arxiv.org/pdf/2005.14165.pdf"
       }
-    ]
+    ],
+      "slides": ""
   },
     {
       "date": "28.08.2023",
@@ -35,7 +36,8 @@
           "title": "Improving Language Understanding by Generative Pre-Training",
           "link": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf"
         }
-      ]
+      ],
+      "slides": "slides/02-Improving Language Understanding by Generative Pre-Training.pdf"
     },
     {
       "date": "21.08.2023",
@@ -46,7 +48,8 @@
           "title": "Attention Is All You Need",
           "link": "https://arxiv.org/pdf/1706.03762.pdf"
         }
-      ]
+      ],
+      "slides": ""
     }
   ]
 }

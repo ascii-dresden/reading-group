@@ -31,7 +31,8 @@
         const pastMeetingsList = document.getElementById("past-meetings-list");
         pastMeetings.forEach(meeting => {
           pastMeetingsList.innerHTML += `
-            <li>${meeting.date}, ${meeting.time}, ${meeting.room}: ${generatePapersListHTML(meeting.papers)}</li>
+            <li>${meeting.date}, ${meeting.time}, ${meeting.room} (<a href="${meeting.slides}" target="_blank"
+          rel="noopener noreferrer">Slides</a>): ${generatePapersListHTML(meeting.papers)}</li>
           `;
         });
       });
