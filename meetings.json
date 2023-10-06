@@ -1,5 +1,17 @@
 {
   "nextMeeting": {
+    "date": "09.10.2023",
+    "time": "17:00",
+    "room": "E001",
+    "papers": [
+      {
+        "title": "LLaMA: Open and Efficient Foundation Language Models",
+        "link": "https://arxiv.org/pdf/2302.13971.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
     "date": "11.09.2023",
     "time": "17:00",
     "room": "?",
@@ -10,7 +22,6 @@
       }
     ]
   },
-  "pastMeetings": [
     {
     "date": "04.09.2023",
     "time": "17:00",
