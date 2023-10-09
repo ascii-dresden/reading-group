@@ -20,7 +20,8 @@
         "title": "Training language models to follow instructions with human feedback",
         "link": "https://arxiv.org/pdf/2203.02155.pdf"
       }
-    ]
+    ],
+      "slides": "slides/04-instructgpt.pdf"
   },
     {
     "date": "04.09.2023",
@@ -36,7 +37,7 @@
         "link": "https://arxiv.org/pdf/2005.14165.pdf"
       }
     ],
-      "slides": ""
+      "slides": "slides/03-gpt_2_and_3.pdf"
   },
     {
       "date": "28.08.2023",
