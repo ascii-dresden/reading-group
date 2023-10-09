@@ -1,8 +1,32 @@
 {
   "nextMeeting": {
-    "date": "04.09.2023",
+    "date": "09.10.2023",
     "time": "17:00",
     "room": "E001",
+    "papers": [
+      {
+        "title": "LLaMA: Open and Efficient Foundation Language Models",
+        "link": "https://arxiv.org/pdf/2302.13971.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
+    "date": "11.09.2023",
+    "time": "17:00",
+    "room": "?",
+    "papers": [
+      {
+        "title": "Training language models to follow instructions with human feedback",
+        "link": "https://arxiv.org/pdf/2203.02155.pdf"
+      }
+    ],
+      "slides": "slides/04-instructgpt.pdf"
+  },
+    {
+    "date": "04.09.2023",
+    "time": "17:00",
+    "room": "3045",
     "papers": [
       {
         "title": "Language Models are Unsupervised Multitask Learners",
@@ -12,9 +36,9 @@
         "title": "Language Models are Few-Shot Learners",
         "link": "https://arxiv.org/pdf/2005.14165.pdf"
       }
-    ]
+    ],
+      "slides": "slides/03-gpt_2_and_3.pdf"
   },
-  "pastMeetings": [
     {
       "date": "28.08.2023",
       "time": "17:00",
@@ -24,7 +48,8 @@
           "title": "Improving Language Understanding by Generative Pre-Training",
           "link": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf"
         }
-      ]
+      ],
+      "slides": "slides/02-Improving Language Understanding by Generative Pre-Training.pdf"
     },
     {
       "date": "21.08.2023",
@@ -35,7 +60,8 @@
           "title": "Attention Is All You Need",
           "link": "https://arxiv.org/pdf/1706.03762.pdf"
         }
-      ]
+      ],
+      "slides": "slides/01-attention_is_all_you_need.pdf"
     }
   ]
 }
