@@ -1,5 +1,17 @@
 {
   "nextMeeting": {
+    "date": "30.10.2023",
+    "time": "17:00",
+    "room": "E001",
+    "papers": [
+      {
+        "title": "Scaling Laws for Neural Language Models",
+        "link": "https://arxiv.org/pdf/2001.08361.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
     "date": "16.10.2023",
     "time": "17:00",
     "room": "E001",
@@ -8,9 +20,9 @@
         "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
         "link": "https://arxiv.org/pdf/1810.04805.pdf"
       }
-    ]
+    ],
+      "slides": ""
   },
-  "pastMeetings": [
     {
     "date": "09.10.2023",
     "time": "17:00",
