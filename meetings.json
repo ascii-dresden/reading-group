@@ -1,5 +1,17 @@
 {
   "nextMeeting": {
+    "date": "06.11.2023",
+    "time": "17:00",
+    "room": "E001",
+    "papers": [
+      {
+        "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+        "link": "https://arxiv.org/pdf/1803.03635.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
     "date": "30.10.2023",
     "time": "17:00",
     "room": "E001",
@@ -10,7 +22,6 @@
       }
     ]
   },
-  "pastMeetings": [
     {
     "date": "16.10.2023",
     "time": "17:00",
