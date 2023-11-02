@@ -20,7 +20,8 @@
         "title": "Scaling Laws for Neural Language Models",
         "link": "https://arxiv.org/pdf/2001.08361.pdf"
       }
-    ]
+    ],
+      "slides": "slides/07-Scaling Laws for Neural Language Models.pdf"
   },
     {
     "date": "16.10.2023",
