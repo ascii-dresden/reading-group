@@ -1,5 +1,21 @@
 {
   "nextMeeting": {
+    "date": "27.11.2023",
+    "time": "17:00",
+    "room": "E001",
+    "papers": [
+      {
+        "title": "A Mathematical Framework for Transformer Circuits",
+        "link": "https://arxiv.org/pdf/2106.09685.pdf"
+      },
+      {
+        "title": "Video Playlist der Autoren (hat mehr Inhalt als im Paper steht)",
+        "link": "https://www.youtube.com/watch?v=V3NQaDR3xI4&list=PLoyGOS2WIonajhAVqKUgEMNmeq3nEeM51&index=2"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
     "date": "20.11.2023",
     "time": "17:00",
     "room": "E001",
@@ -8,9 +24,9 @@
         "title": "LoRA: Low-Rank Adaptation of Large Language Models",
         "link": "https://arxiv.org/pdf/2106.09685.pdf"
       }
-    ]
+    ],
+      "slides": "slides/09-lora.pdf"
   },
-  "pastMeetings": [
     {
     "date": "06.11.2023",
     "time": "17:00",
