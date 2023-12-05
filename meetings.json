@@ -1,6 +1,18 @@
 {
   "nextMeeting": {
-    "date": "27.11.2023",
+    "date": "TBA",
+    "time": "17:00",
+    "room": "E001",
+    "papers": [
+      {
+        "title": "TBA",
+        "link": ""
+      },
+    ]
+  },
+  "pastMeetings": [
+    {
+    "date": "27.11. und 4.12.2023",
     "time": "17:00",
     "room": "E001",
     "papers": [
@@ -12,9 +24,10 @@
         "title": "Video Playlist der Autoren (hat mehr Inhalt als im Paper steht)",
         "link": "https://www.youtube.com/watch?v=V3NQaDR3xI4&list=PLoyGOS2WIonajhAVqKUgEMNmeq3nEeM51&index=2"
       }
-    ]
+    ],
+      "slides": "slides/10-11-transformer-circuits.pdf" 
   },
-  "pastMeetings": [
+    
     {
     "date": "20.11.2023",
     "time": "17:00",
