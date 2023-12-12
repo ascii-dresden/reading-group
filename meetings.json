@@ -1,12 +1,12 @@
 {
   "nextMeeting": {
-    "date": "TBA",
+    "date": "18.12.2023",
     "time": "17:00",
     "room": "E001",
     "papers": [
       {
-        "title": "TBA",
-        "link": ""
+        "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3442188.3445922"
       }
     ]
   },
