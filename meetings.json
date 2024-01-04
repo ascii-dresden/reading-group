@@ -1,6 +1,17 @@
 {
   "nextMeeting": {
-    "date": "18.12.2023",
+    "date": "08.01.2024",
+    "time": "17:00",
+    "room": "E001",
+    "papers": [
+      {
+        "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+        "link": "https://arxiv.org/pdf/2205.14135.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {"date": "18.12.2023",
     "time": "17:00",
     "room": "E001",
     "papers": [
@@ -8,9 +19,9 @@
         "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜",
         "link": "https://dl.acm.org/doi/abs/10.1145/3442188.3445922"
       }
-    ]
-  },
-  "pastMeetings": [
+    ],
+      "slides":"12-StochasticParrot.pdf"
+    },
     {
     "date": "27.11. und 4.12.2023",
     "time": "17:00",
