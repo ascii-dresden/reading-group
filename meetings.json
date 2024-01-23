@@ -1,5 +1,17 @@
 {
   "nextMeeting": {
+    "date": "31.01.2024",
+    "time": "17:00",
+    "room": "3045",
+    "papers": [
+      {
+        "title": "TinyStories: How Small Can Language Models Be and Still Speak Coherent English?",
+        "link": "https://arxiv.org/pdf/2305.07759.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
     "date": "08.01.2024",
     "time": "17:00",
     "room": "E001",
@@ -8,9 +20,9 @@
         "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
         "link": "https://arxiv.org/pdf/2205.14135.pdf"
       }
-    ]
+    ],
+      "slides": ""
   },
-  "pastMeetings": [
     {"date": "18.12.2023",
     "time": "17:00",
     "room": "E001",
