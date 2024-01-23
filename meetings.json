@@ -41,7 +41,7 @@
     "papers": [
       {
         "title": "A Mathematical Framework for Transformer Circuits",
-        "link": "https://arxiv.org/pdf/2106.09685.pdf"
+        "link": "https://transformer-circuits.pub/2021/framework/index.html"
       },
       {
         "title": "Video Playlist der Autoren (hat mehr Inhalt als im Paper steht)",
