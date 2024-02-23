@@ -1,5 +1,29 @@
 {
   "nextMeeting": {
+    "date": "04.03.2024",
+    "time": "17:00",
+    "room": "3105?",
+    "papers": [
+      {
+        "title": "Locating and Editing Factual Associations in GPT",
+        "link": "https://proceedings.neurips.cc/paper_files/paper/2022/file/6f1d43d5a82a37e89b0665b33bf3a182-Paper-Conference.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
+    "date": "19.02.2024",
+    "time": "17:00",
+    "room": "3105",
+    "papers": [
+      {
+        "title": "Linformer: Self-Attention with Linear Complexity",
+        "link": "https://arxiv.org/pdf/2006.04768.pdf"
+      }
+    ],
+      "slides": ""
+  },
+    {
     "date": "31.01.2024",
     "time": "17:00",
     "room": "3045",
@@ -8,9 +32,9 @@
         "title": "TinyStories: How Small Can Language Models Be and Still Speak Coherent English?",
         "link": "https://arxiv.org/pdf/2305.07759.pdf"
       }
-    ]
+    ],
+      "slides": ""
   },
-  "pastMeetings": [
     {
     "date": "08.01.2024",
     "time": "17:00",
