@@ -21,7 +21,7 @@
         "link": "https://arxiv.org/pdf/2006.04768.pdf"
       }
     ],
-      "slides": ""
+      "slides": "slides/15-Linformer.pdf"
   },
     {
     "date": "31.01.2024",
@@ -33,7 +33,7 @@
         "link": "https://arxiv.org/pdf/2305.07759.pdf"
       }
     ],
-      "slides": ""
+      "slides": "slides/14-tinystories.pdf"
   },
     {
     "date": "08.01.2024",
@@ -45,7 +45,7 @@
         "link": "https://arxiv.org/pdf/2205.14135.pdf"
       }
     ],
-      "slides": ""
+      "slides": "slides/13-flashattention.pdf"
   },
     {"date": "18.12.2023",
     "time": "17:00",
