@@ -1,5 +1,14 @@
 {
   "nextMeeting": {
+    "date": "??",
+    "time": "??:00",
+    "room": "??",
+    "papers": [
+      {}
+    ],
+  },
+  "pastMeetings": [
+    {
     "date": "04.03.2024",
     "time": "17:00",
     "room": "3105?",
@@ -8,9 +17,9 @@
         "title": "Locating and Editing Factual Associations in GPT",
         "link": "https://proceedings.neurips.cc/paper_files/paper/2022/file/6f1d43d5a82a37e89b0665b33bf3a182-Paper-Conference.pdf"
       }
-    ]
+    ],
+    "slides": "slides/16-Rome.pdf"
   },
-  "pastMeetings": [
     {
     "date": "19.02.2024",
     "time": "17:00",
