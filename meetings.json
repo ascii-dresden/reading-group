@@ -1,9 +1,13 @@
 {
   "nextMeeting": {
-    "date": "??",
-    "time": "??:00",
-    "room": "??",
+    "date": "17.01.2024",
+    "time": "17:00",
+    "room": "?? (wird noch bekannt gegeben)",
     "papers": [
+      {
+        "title": "Attention Is All You Need",
+        "link": "https://arxiv.org/pdf/1706.03762"
+      }
     ]
   },
   "pastMeetings": [
