@@ -1,5 +1,17 @@
 {
   "nextMeeting": {
+    "date": "29.01.2024 (unter vorbehalt)",
+    "time": "17:00",
+    "room": "??? (wird noch bekannt gegeben)",
+    "papers": [
+      {
+        "title": "Improving Language Understanding by Generative Pre-Training",
+        "link": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
     "date": "17.01.2024",
     "time": "17:00",
     "room": "E005",
@@ -10,7 +22,6 @@
       }
     ]
   },
-  "pastMeetings": [
     {
     "date": "04.03.2024",
     "time": "17:00",
