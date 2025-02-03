@@ -1,5 +1,21 @@
 {
   "nextMeeting": {
+    "date": "12.02.2024",
+    "time": "17:00",
+    "room": "??? (wird noch bekannt gegeben)",
+    "papers": [
+      {
+        "title": "Language Models are Unsupervised Multitask Learners",
+        "link": "https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf"
+      },
+      {
+        "title": "Language Models are Few-Shot Learners",
+        "link": "https://arxiv.org/pdf/2005.14165.pdf"
+      }
+    ]
+  },
+  "pastMeetings": [
+    {
     "date": "30.01.2024",
     "time": "18:00",
     "room": "??? (wird noch bekannt gegeben)",
@@ -8,9 +24,9 @@
         "title": "Improving Language Understanding by Generative Pre-Training",
         "link": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf"
       }
-    ]
+    ],
+      "slides": "slides2025/02_gpt1.pdf"
   },
-  "pastMeetings": [
     {
     "date": "17.01.2024",
     "time": "17:00",
@@ -20,7 +36,8 @@
         "title": "Attention Is All You Need",
         "link": "https://arxiv.org/pdf/1706.03762"
       }
-    ]
+    ],
+      "slides": "slides2025/01_attention_is_all_you_need.pdf"
   },
     {
     "date": "04.03.2024",
