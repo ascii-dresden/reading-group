@@ -1,3 +1,3 @@
 # reading-group
 
-Served at [https://anreu.github.io/reading-group/](https://anreu.github.io/reading-group/).
+Served at [https://ascii-dresden.github.io/reading-group/](https://ascii-dresden.github.io/reading-group/).
