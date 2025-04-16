@@ -1,19 +1,31 @@
 {
   "nextMeeting": {
-    "date": "16.04.2024",
+    "date": "30.04.2024",
     "time": "17:00",
     "room": "3027",
     "papers": [
       {
-        "title": "DeepSeek-V3 Technical Report",
-        "link": "https://arxiv.org/abs/2412.19437"
-      }, {
-        "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2501.12948"
+        "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+        "link": "https://arxiv.org/abs/2204.06125"
       }
     ]
   },
   "pastMeetings": [
+      {
+          "date": "16.04.2024",
+          "time": "17:00",
+          "room": "E008",
+          "papers": [
+              {
+                  "title": "DeepSeek-V3 Technical Report",
+                  "link": "https://arxiv.org/abs/2412.19437"
+              }, {
+              "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+              "link": "https://arxiv.org/abs/2501.12948"
+              }
+          ],
+          "slides": "slides2025/06_deepseek.pdf"
+      },
     {
     "date": "19.03.2024",
     "time": "17:00",
