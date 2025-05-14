@@ -1,18 +1,30 @@
 {
   "nextMeeting": {
-    "date": "30.04.2024",
+    "date": "21.05.2025",
     "time": "17:00",
     "room": "3027",
     "papers": [
       {
-        "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
-        "link": "https://arxiv.org/abs/2204.06125"
+        "title": "On the Biology of a Large Language Model",
+        "link": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html"
       }
     ]
   },
   "pastMeetings": [
       {
-          "date": "16.04.2024",
+          "date": "30.04.2025",
+          "time": "17:00",
+          "room": "3027",
+          "papers": [
+              {
+                  "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+                  "link": "https://arxiv.org/abs/2204.06125"
+              }
+          ],
+          "slides": "slides2025/07_dall-e_2.pdf"
+      },
+      {
+          "date": "16.04.2025",
           "time": "17:00",
           "room": "E008",
           "papers": [
@@ -27,7 +39,7 @@
           "slides": "slides2025/06_deepseek.pdf"
       },
     {
-    "date": "19.03.2024",
+    "date": "19.03.2025",
     "time": "17:00",
     "room": "E023",
     "papers": [
@@ -39,7 +51,7 @@
       "slides": "slides2025/05_sparsely_gated_moe.pdf"
   },
     {
-    "date": "05.03.2024",
+    "date": "05.03.2025",
     "time": "17:00",
     "room": "3027",
     "papers": [
@@ -51,7 +63,7 @@
     "slides": "slides2025/04_InstructGPT_RLHF.pdf"
   },
     {
-    "date": "12.02.2024",
+    "date": "12.02.2025",
     "time": "17:00",
     "room": "ascii",
     "papers": [
@@ -66,7 +78,7 @@
     ]
   },
     {
-    "date": "30.01.2024",
+    "date": "30.01.2025",
     "time": "18:00",
     "room": "??? (wird noch bekannt gegeben)",
     "papers": [
@@ -78,7 +90,7 @@
       "slides": "slides2025/02_gpt1.pdf"
   },
     {
-    "date": "17.01.2024",
+    "date": "17.01.2025",
     "time": "17:00",
     "room": "E005",
     "papers": [
